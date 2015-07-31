@@ -1,3 +1,9 @@
+2.1.0.2 (2015-07-31)
+
+* Amputated (there's no better word for it) identi.ca support
+* Changed pointer to zoom-in for image previews
+* Open true full versions of images instead of medium ones
+
 2.1.0.1 (2015-07-25)
 
 * Fixed auto-expanding of manually collapsed quotes
