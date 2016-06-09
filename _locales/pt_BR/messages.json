@@ -670,10 +670,10 @@
 	  "message": "Trends"
 	},
 	"g_trending_topics": {
-	  "message": "Trending Topics" 
+	  "message": "Trending Topics"
 	},
 	"l_trending_topics_woeid": {
-	  "message": "Local dos Trending Topics:" 
+	  "message": "Local dos Trending Topics:"
 	},
 	"l_use_streaming_api": {
 	  "message": "Usar a API de streaming (experimental!):"
@@ -703,7 +703,7 @@
 	  "message": "Nunca"
 	},
 	"invalid_keys": {
-	  "message": "As chaves de API estão vazias. Você provavelmente está usando uma versão de desenvolvimento.<br>Você precisa registrar uma aplicação em http://dev.twitter.com e preencher os valores no arquivo lib/secret_keys.js."
+	  "message": "As chaves de API estão vazias. Você provavelmente está usando uma versão de desenvolvimento.<br>Você precisa registrar uma aplicação em <a href='https://apps.twitter.com/' target='_blank'> e preencher os valores no arquivo lib/secret_keys.js."
 	},
 	"ir_empty": {
 		"message": "O Tweet está vazio"

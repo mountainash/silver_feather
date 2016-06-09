@@ -672,10 +672,10 @@
     "message": "Trendlər"
   },
   "g_trending_topics": {
-    "message": "Trend mövzular" 
+    "message": "Trend mövzular"
   },
   "l_trending_topics_woeid": {
-    "message": "Yerlər üzrə trend mövzular:" 
+    "message": "Yerlər üzrə trend mövzular:"
   },
   "l_use_streaming_api": {
     "message": "Axın APİ-si istifadə edin (sınaqda!):"
@@ -705,6 +705,6 @@
 	  "message": "Heç vaxt"
 	},
 	"invalid_keys": {
-	  "message": "Boş APİ açarlarından istifadə edirsiniz. Bu yəqin ona görə baş verir ki, siz hazırlanmaqda olan developer versiya istifadə edirsiz.<br>Siz http://dev.twitter.com -da tətbiqi qeydə almalısınız və lib/secret_keys.js faylında APİ açarlarını doldurmalısınız."
+	  "message": "Boş APİ açarlarından istifadə edirsiniz. Bu yəqin ona görə baş verir ki, siz hazırlanmaqda olan developer versiya istifadə edirsiz.<br>Siz <a href='https://apps.twitter.com/' target='_blank'> -da tətbiqi qeydə almalısınız və lib/secret_keys.js faylında APİ açarlarını doldurmalısınız."
 	}
 }

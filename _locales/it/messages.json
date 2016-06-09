@@ -672,10 +672,10 @@
 	  "message": "Trends"
 	},
 	"g_trending_topics": {
-	  "message": "Trending Topics" 
+	  "message": "Trending Topics"
 	},
 	"l_trending_topics_woeid": {
-	  "message": "Paese del Trending Topics:" 
+	  "message": "Paese del Trending Topics:"
 	},
 	"l_use_streaming_api": {
 	  "message": "Usa streaming API (sperimentale!):"
@@ -705,6 +705,6 @@
 	  "message": "Mai"
 	},
 	"invalid_keys": {
-	  "message": "Stai usando delle API key vuote, probabilmente perché stai utilizzando una versione in via di sviluppo.<br>È preferibile registrare le applicazioni su http://dev.twitter.com e riempire le APi key nel file lib/secret_keys.jso."
+	  "message": "Stai usando delle API key vuote, probabilmente perché stai utilizzando una versione in via di sviluppo.<br>È preferibile registrare le applicazioni su <a href='https://apps.twitter.com/' target='_blank'> e riempire le APi key nel file lib/secret_keys.jso."
 	}
 }

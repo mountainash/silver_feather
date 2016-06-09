@@ -672,10 +672,10 @@
 	  "message": "Trendy"
 	},
 	"g_trending_topics": {
-	  "message": "Trendující témata" 
+	  "message": "Trendující témata"
 	},
 	"l_trending_topics_woeid": {
-	  "message": "Trendující témata celosvětově:" 
+	  "message": "Trendující témata celosvětově:"
 	},
 	"l_use_streaming_api": {
 	  "message": "Používat streaming API (experimentální!):"
@@ -705,7 +705,7 @@
 	  "message": "Nikdy"
 	},
 	"invalid_keys": {
-	  "message": "Používáte API klíče. Tohle se pravděpodobně děje, protože používáte vývojářsku verzi.<br>Měli by jste zaregistrovat aplikaci na adrese http://dev.twitter.com a vyplnit API klíče v souboru lib/secret_keys.js."
+	  "message": "Používáte API klíče. Tohle se pravděpodobně děje, protože používáte vývojářsku verzi.<br>Měli by jste zaregistrovat aplikaci na adrese <a href='https://apps.twitter.com/' target='_blank'> a vyplnit API klíče v souboru lib/secret_keys.js."
 	},
 	"ir_empty": {
 		"message": "Tweet je prázdný"

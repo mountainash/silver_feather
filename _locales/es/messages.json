@@ -657,10 +657,10 @@
 	  "message": "Servicio de imágenes"
 	},
 	"g_trending_topics": {
-	  "message": "Temas del momento" 
+	  "message": "Temas del momento"
 	},
 	"invalid_keys": {
-	  "message": "Estás usando API Keys vacías. Esto probablemente esté ocurriendo ya que estás usando una versión de desarrollo. <br>Deberías registrar la aplicación en http://dev.twitter.com y rellenar las API Keys en el fichero lib/secret_keys.js."
+	  "message": "Estás usando API Keys vacías. Esto probablemente esté ocurriendo ya que estás usando una versión de desarrollo. <br>Deberías registrar la aplicación en <a href='https://apps.twitter.com/' target='_blank'> y rellenar las API Keys en el fichero lib/secret_keys.js."
 	},
 	"l_default_locale": {
 	  "message": "Localización por defecto:"
